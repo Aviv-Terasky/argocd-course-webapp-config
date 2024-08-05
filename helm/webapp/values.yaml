@@ -8,7 +8,7 @@ image:
   repository: aviv012/argocd-lab
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 5bb680efaaff89320faafd8d4e4f7a0170f7103e
+  tag: 4a24b1a11f6b43bd9604619f84cb0ae1d96847fe
 
 imagePullSecrets: []
 nameOverride: ""
